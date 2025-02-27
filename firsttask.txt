@@ -1,2 +1,3 @@
 first changes: Java is an interesting language.
 second changes: But intelligent automation is even more interesting
+third changes: Agentic AI is the most interesting of all these.
